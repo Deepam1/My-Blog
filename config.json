@@ -1,0 +1,24 @@
+{
+  "params":
+  {
+    "local_server": "True",
+    "local_uri": "mysql+pymysql://root:@localhost/clean blog",
+    "prod_uri":"mysql+pymysql://root:@localhost/clean blog",
+    "fb_url":"https://www.facebook.com/clean blog",
+    "tw_url": "https://twitter.com/clean blog",
+    "gh_url": "https://github.com/clean blog",
+    "blog_name": "My Blog",
+    "tag_line": "Will keep adding new features to this blog.",
+    "gmail_user": "stardeepam1@gmail.com",
+    "gmail_password": "cheetachug",
+    "about_text": "Hi i m dj",
+    "no_of_posts": 2,
+    "admin_user":"Deepam",
+    "admin_password":"deepam",
+    "upload_location":"C:\\Users\\win 10\\PycharmProjects\\startF\\static",
+    "login_image":"login.svg"
+  }
+
+}
+
+
